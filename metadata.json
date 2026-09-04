@@ -1,0 +1,7 @@
+{
+  "name": "Data Annotation & AI Jobs Alert",
+  "description": "Automated daily AI data annotation, labelling, virtual assistant, and allied jobs alerts with WhatsApp and Telegram channel forwarding, beginner FAQ guide, real-time notifications, and application tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
